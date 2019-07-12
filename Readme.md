@@ -39,5 +39,6 @@ $ terraform init
 ```
 
 ## vpcとSubnetを出力してみる
+```
 terraformer import aws --resources=vpc,subnet --connect=true --regions=ap-northeast-1
 ```
