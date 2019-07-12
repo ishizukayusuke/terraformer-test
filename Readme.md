@@ -31,7 +31,7 @@ $ export AWS_SECRET_ACCESS_KEY=yyyyyyyyyyyyyyyyyy
 $ export AWS_DEFAULT_REGION=ap-northeast-1
 ```
 
-## 初期化
+## 初期化
 
 ```
 $ echo 'provider "aws" {}' > init.tf
